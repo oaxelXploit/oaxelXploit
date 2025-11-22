@@ -49,7 +49,7 @@
 
 ### 🧬 Digital Vibes  
 <p align="center">
-  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="300">
+  <img src="https://files.catbox.moe/4q5n2i.gif" width="300" alt="Luffy Marah">
 </p>
 
 ---
