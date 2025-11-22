@@ -1,18 +1,18 @@
-<!-- 🔥 Banner Cyberpunk Neon -->
+<!-- 🔥 Banner Utama -->
 <p align="center">
-  <img src="https://i.imgur.com/0J7bXqf.gif" width="700" alt="Cyberpunk Banner">
+  <img src="https://files.catbox.moe/lgdxp9.jpeg" width="650" alt="Banner Utama">
 </p>
 
-<h1 align="center">⚡ ShadowHacker ⚡</h1>
-<p align="center">💀 Lost in neon, coding in shadows 🌌💻 | Hacker aesthetic mode: ON</p>
+<h1 align="center">⚡ oaxelXploit ⚡</h1>
+<p align="center">💀 Coding in the shadows 🌌💻 | Anime & Hacker vibes</p>
 
 ---
 
 ### 👁️‍🗨️ About Me
-- 🌌 Wanderer in the neon-lit cyber city  
-- 🔍 Exploring exploits, glitches, and hidden codes  
-- ⚡ Calm outside, storm inside  
-- 🧩 Breaking systems → learning → rebuilding  
+- 🌌 Exploring codes, hacks & digital mysteries  
+- 🔍 Always learning, always experimenting  
+- ⚡ Calm outside, chaos inside  
+- 🧩 Anime lover + hacker aesthetic  
 
 ---
 
@@ -21,6 +21,27 @@
   <img src="https://img.shields.io/badge/Linux-Kali-000000?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript">
+  <img src="https://img.shields.io/badge/Git-Github-orange?style=for-the-badge&logo=git">
+</p>
+
+---
+
+### 🧬 Itachi uchiha 
+<p align="center">
+  <img src="https://files.catbox.moe/4q5n2i.gif" width="300" alt="Luffy Marah">
+</p>
+
+---
+
+### 🖥️ Anime Coding Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Anime Coding">
+</p>
+
+---
+
+### 🖤 Quote
+> “In a world of neon lights and code, shadows always move faster.”  <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/AI-Exploration-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Git-Github-orange?style=for-the-badge&logo=git">
 </p>
