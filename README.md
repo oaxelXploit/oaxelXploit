@@ -8,19 +8,6 @@
 
 ---
 
-### 👤 About Me
-- 🌌 Wandering through codes, glitches, and digital echoes
-
-- 🔍 Forever learning — curiosity is my fuel
-
-- ⚡ Quiet mind, loud ideas
-
-- 🧩 Anime‑inspired soul with a taste for cyber aesthetics
-
-- 🜁 Living between reality & the terminal  
-
----
-
 ### 🛠️ Skills & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
@@ -45,13 +32,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Anime Coding">
 </p>
-
----
-
-### 🖤 Quote
-> “In a world of neon lights and code, shadows always move faster.”  <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/AI-Exploration-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-Github-orange?style=for-the-badge&l
 
 ---
 
