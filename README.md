@@ -33,6 +33,11 @@
 
 ---
 
+### 🖤 Quote
+> “In a city of neon lights and digital ghosts, shadows always speak louder than words.”
+
+---
+
 ### 🖥️ Anime Coding Vibes
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Anime Coding">
@@ -55,19 +60,6 @@
 
 ---
 
-### 🖤 Quote
-> “In a city of neon lights and digital ghosts, shadows always speak louder than words.”
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsZxR5kY6bY9jU8/giphy.gif" width="250" alt="Glitch Effect">
-</p>  <img src="https://img.shields.io/badge/OSINT-Research-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Terminal-Enjoyer-111111?style=for-the-badge">
-</p>
-
----
-
 ### 🧬 Digital Vibes
 <p align="center">
   <img src="https://media.giphy.com/media/l46Cpz4Jv7UDEK7q8/giphy.gif" width="320">
@@ -85,13 +77,6 @@
 </p>
 
 <p align="center">🥷 Powered by <strong>oaxelXploit</strong> 🥷</p>  <img src="https://img.shields.io/badge/Terminal-Lover-000000?style=for-the-badge">
-</p>
-
----
-
-### 🧬 Digital Vibes  
-<p align="center">
-  <img src="https://files.catbox.moe/4q5n2i.gif" width="300" alt="Luffy Marah">
 </p>
 
 ---
