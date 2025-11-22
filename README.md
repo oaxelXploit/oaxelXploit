@@ -4,24 +4,27 @@
 </p>
 
 <h1 align="center">⚡ oaxelXploit ⚡</h1>
-<p align="center">💀 Coding in the shadows 🌌💻 | Anime & Hacker vibes</p>
+<p align="center">🎧 Music x Coding | self-taught  </p>
 
 ---
 
-### 👁️‍🗨️ About Me
-- 🌌 Exploring codes, hacks & digital mysteries  
-- 🔍 Always learning, always experimenting  
-- ⚡ Calm outside, chaos inside  
-- 🧩 Anime lover + hacker aesthetic  
+### 👤 About Me
+- 🌌 Wandering through codes, glitches, and digital echoes
+
+- 🔍 Forever learning — curiosity is my fuel
+
+- ⚡ Quiet mind, loud ideas
+
+- 🧩 Anime‑inspired soul with a taste for cyber aesthetics
+
+- 🜁 Living between reality & the terminal  
 
 ---
 
 ### 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Kali-000000?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript">
-  <img src="https://img.shields.io/badge/Git-Github-orange?style=for-the-badge&logo=git">
 </p>
 
 ---
@@ -36,9 +39,12 @@
 ### 🖤 Quote
 > “In a city of neon lights and digital ghosts, shadows always speak louder than words.”
 
+### 🖤 Quote
+> “A glitch is just a door… only the brave try to open it.”
+> 
 ---
 
-### 🖥️ Anime Coding Vibes
+### 🖥️ Coding Vibes
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Anime Coding">
 </p>
@@ -48,27 +54,7 @@
 ### 🖤 Quote
 > “In a world of neon lights and code, shadows always move faster.”  <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript">
   <img src="https://img.shields.io/badge/AI-Exploration-purple?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Git-Github-orange?style=for-the-badge&logo=git">
-</p>
-
----
-
-### 🧬 Cyberpunk Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/l46CbX0Kq9KtQiM2k/giphy.gif" width="350" alt="Neon Glitch">
-</p>
-
----
-
-### 🧬 Digital Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/l46Cpz4Jv7UDEK7q8/giphy.gif" width="320">
-</p>
-
----
-
-### 🖤 Quote
-> “A glitch is just a door… only the brave try to open it.”
+  <img src="https://img.shields.io/badge/Git-Github-orange?style=for-the-badge&l
 
 ---
 
