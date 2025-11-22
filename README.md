@@ -37,9 +37,6 @@
 ---
 
 ### 🖤 Quote
-> “In a city of neon lights and digital ghosts, shadows always speak louder than words.”
-
-### 🖤 Quote
 > “A glitch is just a door… only the brave try to open it.”
 > 
 ---
