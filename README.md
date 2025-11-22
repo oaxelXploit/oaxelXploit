@@ -28,23 +28,12 @@
 > 
 ---
 
-### 🖥️ Coding Vibes
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="320" alt="Anime Coding">
-</p>
-
----
-
 <p align="center">
   <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="250">
 </p>
 
-<p align="center">🥷 Powered by <strong>oaxelXploit</strong> 🥷</p>  <img src="https://img.shields.io/badge/Terminal-Lover-000000?style=for-the-badge">
-</p>
-
----
-
 ### 😔 Quote
 > “I'm just a human… learning to speak the language of machines.”
 
----
+<p align="center">🥷 Powered by <strong>oaxelXploit</strong> 🥷</p>  <img src="https://img.shields.io/badge/Terminal-Lover-000000?style=for-the-badge">
+</p>
