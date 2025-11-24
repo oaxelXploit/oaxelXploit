@@ -6,7 +6,7 @@
 <h1 align="center">⚡ oaxelXploit ⚡</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/dhowx7_train.gif" width="350">
+  <img src="https://files.catbox.moe/ugz3qh.gif" width="300">
 </p>
 
 ### 🛠️ Skills & Tools
