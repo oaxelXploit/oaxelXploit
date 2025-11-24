@@ -5,15 +5,9 @@
 
 <h1 align="center">⚡ oaxelXploit ⚡</h1>
 
-<!-- 🚂 Sliding Train Text -->
 <p align="center">
-  <strong>
-    <marquee behavior="alternate" scrollamount="10">
-      Welcome To DhowX-7 Github
-    </marquee>
-  </strong>
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/dhowx7_train.gif" width="350">
 </p>
-
 
 ### 🛠️ Skills & Tools
 <p align="center">
