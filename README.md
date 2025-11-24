@@ -1,39 +1,26 @@
-<!-- 🔥 Banner Utama -->
-<p align="center">
-  <img src="https://files.catbox.moe/lgdxp9.jpeg" width="650" alt="Banner Utama">
-</p>
+Welcome To DhowX-7 Github
 
-<h1 align="center">⚡ oaxelXploit ⚡</h1>
-<p align="center">🎧 Music x Coding | self-taught  </p>
+<!-- Banner Image (replace URL with your link) -->
+
 
 ---
 
-### 🛠️ Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript">
-</p>
+👤 Profile
+
+Hello, my name is Arman
+Gender: Male
+Location: Indonesia
+
+About me:
+Self-taught at heart, fueled by curiosity. I move in silence, but never without purpose.
+
 
 ---
 
-### 🧬 Itachi uchiha 
-<p align="center">
-  <img src="https://files.catbox.moe/4q5n2i.gif" width="300" alt="Luffy Marah">
-</p>
+🔧 Favorite Tools
 
----
-
-### 🖤 Quote
-> “A glitch is just a door… only the brave try to open it.”
-> 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="250">
-</p>
-
-### 😔 Quote
-> “I'm just a human… learning to speak the language of machines.”
-
-<p align="center">🥷 Powered by <strong>oaxelXploit</strong> 🥷</p>  <img src="https://img.shields.io/badge/Terminal-Lover-000000?style=for-the-badge">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Metasploit-logo.png" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/OSINT-icon.png" width="50" />
 </p>
