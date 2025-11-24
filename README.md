@@ -1,5 +1,5 @@
 <!-- Animated Welcome Text (train-like marquee) --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=500&color=00FFF0&center=true&vCenter=true&width=800&lines=Welcome+To+DhowX-7+Github;Self+taught+%7C+Curious+%7C+Silent+Mover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+To+DhowX-7+Github;Self+taught+%7C+Curious+%7C+Silent+Mover" />
 </p><!-- Banner Image --><p align="center">
   <img src="https://files.catbox.moe/lgdxp9.jpeg" width="90%" />
 </p>
