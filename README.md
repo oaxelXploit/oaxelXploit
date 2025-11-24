@@ -1,33 +1,59 @@
-<!-- Animated Welcome Text (train-like marquee) --><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=Welcome+To+DhowX-7+Github;Self+taught+%7C+Curious+%7C+Silent+Mover" />
-</p><!-- Banner Image --><p align="center">
-  <img src="https://files.catbox.moe/lgdxp9.jpeg" width="90%" />
+<!-- 🔥 Banner Utama -->
+<p align="center">
+  <img src="https://files.catbox.moe/lgdxp9.jpeg" width="650" alt="Banner Utama">
 </p>
----
 
-👤 Profile
+<h1 align="center">⚡ oaxelXploit ⚡</h1>
 
-Hello, my name is Arman
-Gender: Male
-Location: Indonesia
-
-About me:
-Self-taught at heart, fueled by curiosity. I move in silence, but never without purpose.
-
-
----
-
-🔧 Favorite Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Metasploit-logo.png" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/OSINT-icon.png" width="50" />
+<!-- 🚂 Sliding Train Text -->
+<p align="center">
+  <strong>
+    <span style="
+      display: inline-block;
+      white-space: nowrap;
+      animation: trainMove 8s linear infinite;
+    ">
+      Welcome To DhowX-7 Github 🚂
+    </span>
+  </strong>
 </p>
+
+<style>
+@keyframes trainMove {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+</style>
+
 ---
 
-🔥 Extra Aesthetic Animation
+### 🛠️ Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript">
+</p>
+
+---
+
+### 🧬 Itachi uchiha 
+<p align="center">
+  <img src="https://files.catbox.moe/4q5n2i.gif" width="300" alt="Luffy Marah">
+</p>
+
+---
+
+### 🖤 Quote
+> “A glitch is just a door… only the brave try to open it.”
+
+---
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/7d/7d47fdcf3e6fbd2e8d315ce78eaefddc.gif" width="500" />
+  <img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="250">
+</p>
+
+### 😔 Quote
+> “I'm just a human… learning to speak the language of machines.”
+
+<p align="center">🥷 Powered by <strong>oaxelXploit</strong> 🥷  
+<img src="https://img.shields.io/badge/Terminal-Lover-000000?style=for-the-badge">
 </p>
