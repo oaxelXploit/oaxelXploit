@@ -8,12 +8,9 @@
 <!-- 🚂 Sliding Train Text -->
 <p align="center">
   <strong>
-    <svg width="100%" height="40">
-      <text x="-100%" y="30" font-size="20" font-weight="bold">
-        Welcome To DhowX-7 Github 🚂
-        <animate attributeName="x" from="-100%" to="100%" dur="8s" repeatCount="indefinite" />
-      </text>
-    </svg>
+    <marquee behavior="alternate" scrollamount="10">
+      Welcome To DhowX-7 Github
+    </marquee>
   </strong>
 </p>
 
