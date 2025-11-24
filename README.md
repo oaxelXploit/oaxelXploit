@@ -6,6 +6,7 @@
 <h1 align="center">⚡ oaxelXploit ⚡</h1>
 
 <!-- 🚂 Sliding Train Text -->
+<<!-- 🚂 Sliding Train Text (FIX) -->
 <p align="center">
   <strong>
     <span style="
@@ -13,7 +14,7 @@
       white-space: nowrap;
       animation: trainMove 8s linear infinite;
     ">
-      Welcome To DhowX-7 Github 🚂
+      Welcome To DhowX-7 Github
     </span>
   </strong>
 </p>
@@ -24,7 +25,6 @@
   100% { transform: translateX(100%); }
 }
 </style>
-
 ---
 
 ### 🛠️ Skills & Tools
